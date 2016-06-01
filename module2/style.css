@@ -50,6 +50,7 @@ h1 {
 @media (max-width: 767px) {
     .col- {
     border: 1px green;
+    margin-bottom: 15px;
   }
 
 }
